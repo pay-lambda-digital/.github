@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../logo.svg" alt="pay.lambda.digital" width="300" />
+</p>
+
 # pay.lambda.digital
 
 Crypto payment infrastructure for modern businesses.
