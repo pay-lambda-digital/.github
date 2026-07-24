@@ -2,12 +2,14 @@
   <img src="logo.svg" alt="pay.lambda.digital" width="300" />
 </p>
 
-# pay.lambda.digital
+# Lambda Digital (λ.digital)
 
 Crypto payment infrastructure for modern businesses.
 
 Embed a payment widget in minutes — your customers pay in crypto,
 funds land directly in your wallet.
+
+🌐 [Website](https://xn--wxa.digital/) · 💳 [Plans](https://xn--wxa.digital/#plans) · 📚 [Docs](https://xn--wxa.digital/docs)
 
 ## What we do
 
@@ -16,15 +18,6 @@ funds land directly in your wallet.
 - **Non-custodial** — funds go straight to your wallet, we never hold them
 - **Multi-chain** — EVM (BSC, Ethereum) and Tron supported
 
-## For developers
+---
 
-```http
-POST /v1/payment-intents
-Authorization: Bearer sk_live_...
-
-{
-  "amount": 99.00,
-  "currency": "USDT",
-  "chain": "bsc",
-  "metadata": { "orderId": "123" }
-}
+> λ (lambda) — the 11th letter of the Greek alphabet, symbol of wavelength, anonymity, and functional abstraction.
